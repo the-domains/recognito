@@ -1,0 +1,14 @@
+layout_spectrum: 0.9241049066185951
+typography_spectrum: 0.5738961067982018
+color:
+  brandStrength: 0.3657379955984652
+  lightness: 0.41250094305723906
+  saturation: 0.31055057398043573
+  rhythmicContrast: 0.2736399008426815
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Recognito
